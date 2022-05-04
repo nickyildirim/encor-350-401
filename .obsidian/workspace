@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Virtualization.md",
+            "file": "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 188
   },
   "right": {
     "id": "2c3daf65f97f768b",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtualization.md",
+                "file": "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "d73a67f0405e6545",
   "lastOpenFiles": [
+    "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md.md",
     "Virtualization.md",
     "README.md"
   ]
