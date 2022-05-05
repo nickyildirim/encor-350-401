@@ -22,3 +22,12 @@
 | 3      | Network      | Logical addressing and routing           |
 | 2      | Data Link    | Harware addressing                       |
 | 1      | Phisical     | Media type and connector                 |
+
+### Layer 2 Forwarding
+- AKA: Data link layer, handles addressing under IP protocol.
+- Network packets have L2 addressing with unique source and destination addresses for segments.
+- Ethernet commonly uses *media access control* (MAC) addresses.
+	- Other data link layer protocols such as Frame Relay use an entirely different method of Layer 2 addressing.
+- Note: MAC address is a 48-bit address that is split across six octets and notated in hexadecimal.
+	- The first three octets are assigned to a device maker - known as - unique identifier (OUI)
+	- The manufacturer is responsible for last three octat is unique. 
