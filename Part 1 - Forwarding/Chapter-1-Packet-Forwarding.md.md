@@ -3,11 +3,19 @@
 - Network
 	- Primary function is to provide connectivty between devices.
 	- Almost everything runs on TCP/IP which based on OSI.
+	- Flow of data: 
+		- Starts with app and goes down to 1.
+		- The data gets modified/changed as needed.
+		- At Layer 3: the device/host decideds whether the data needs to be in different app in the same host or to a different host.
+	- Additional notes:
+		- First L2 devices were bridges and switches. L3 devices were strickly routers.
+		- As tech evolved, multi layer switches were invented (MLS). They can forward L2/L3 traffic.
 	- OSI Model:
+
 
 | Layers | Name         | Functionatily                            |
 | ------ | ------------ | ---------------------------------------- |
-| 7      | Application  | Interface for receiving and sending data | 
+| 7      | Application  | Interface for receiving and sending data |
 | 6      | Presentation | Formatting of data and encryption        |
 | 5      | Session      | Tracking of packets                      |
 | 4      | Transport    | End-to-end comm                          |
