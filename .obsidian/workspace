@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md.md",
+            "file": "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md.md",
+                "file": "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +88,7 @@
   },
   "active": "d73a67f0405e6545",
   "lastOpenFiles": [
-    "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md.md",
+    "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md",
     "conflict-files-obsidian-git.md",
     "gitignore.md",
     "README.md",
