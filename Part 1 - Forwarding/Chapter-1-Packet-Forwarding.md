@@ -48,4 +48,5 @@
 	- Priority code point (PCP): This 3 bit field indicates a class of service (CoS) as a part of L2 QoS.
 	- Drop eligible indicator (DEI): This 1-bit field indicates whether the packet can be dropped when there is a bandwidth contention
 	- VLAN identifier (VLAN ID): This 12-bit field specifies the VLAN associated with a network packet. 
-	- 
+- VLAN Structure:
+	- VLAN 0 is reserved for 802.1P traffic and cannot be modified or deleted.
