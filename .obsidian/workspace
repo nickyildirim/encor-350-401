@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d73a67f0405e6545",
+        "id": "8eb3b22dc63aa412",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,11 +86,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d73a67f0405e6545",
+  "active": "8eb3b22dc63aa412",
   "lastOpenFiles": [
     "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md",
-    "gitignore.md",
     "conflict-files-obsidian-git.md",
+    "gitignore.md",
     "README.md",
     "Virtualization.md"
   ]
