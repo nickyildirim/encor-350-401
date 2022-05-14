@@ -13,6 +13,14 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "dcc767926349347b",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -68,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +93,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8eb3b22dc63aa412",
+  "active": "dcc767926349347b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md",
     "gitignore.md",
-    "conflict-files-obsidian-git.md",
     "README.md",
     "Virtualization.md"
   ]
