@@ -41,5 +41,11 @@
 - On the other hand, switch maintains MAC table to forward traffic instead of forwarding to each port.
 
 ### Virtual LANs
-- Provide logical segmentation by creating multiple broadcast domains on tghe same network switch.
+- Provide logical segmentation by creating multiple broadcast domains on the same network switch.
 - Devices with different VLANs can't communicate via L2 or broadcast traffic.
+- VLANs are defined in 802.1Q: which states 32 bits are added to the packet:
+	- Tag protocol identifier (TPID): This 16-bit is a field to declare packet as 802.1Q 0x8100 
+	- Priority code point (PCP): This 3 bit field indicates a class of service (CoS) as a part of L2 QoS.
+	- Drop eligible indicator (DEI): This 1-bit field indicates whether the packet can be dropped when there is a bandwidth contention
+	- VLAN identifier (VLAN ID): This 12-bit field specifies the VLAN associated with a network packet. 
+	- 

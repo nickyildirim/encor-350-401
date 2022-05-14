@@ -1,1 +1,1 @@
-.obsidian/**
+dir_to_ignore/
