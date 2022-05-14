@@ -50,4 +50,4 @@
 	- VLAN identifier (VLAN ID): This 12-bit field specifies the VLAN associated with a network packet. 
 - VLAN Structure:
 	- VLAN 0 is reserved for 802.1P traffic and cannot be modified or deleted.
-	- 
+	- VLAN 1
