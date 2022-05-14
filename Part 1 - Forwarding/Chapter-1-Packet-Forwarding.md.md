@@ -31,3 +31,15 @@
 - Note: MAC address is a 48-bit address that is split across six octets and notated in hexadecimal.
 	- The first three octets are assigned to a device maker - known as - unique identifier (OUI)
 	- The manufacturer is responsible for last three octat is unique. 
+- A device listens for network traffic that has its MAC before moving L3
+- Network broadcast with MAC address FF:FF:FF:FF:FF:FF will always processed by all devices.
+
+### Collision Domains
+- First protocols were 10Base-2 and 10Base-5 (Thick and Thin) where all the devices were connected on a single cable with T connectors.
+- When devices talk at the same time, CSMA/CD used to solve it.
+- This also means devices only can operate with half-dublex.
+- On the other hand, switch maintains MAC table to forward traffic instead of forwarding to each port.
+
+### Virtual LANs
+- Provide logical segmentation by creating multiple broadcast domains on tghe same network switch.
+- Devices with different VLANs can't communicate via L2 or broadcast traffic.
