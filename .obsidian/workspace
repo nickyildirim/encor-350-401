@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "gitignore.md",
+            "file": "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "gitignore.md",
+                "file": "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "8eb3b22dc63aa412",
   "lastOpenFiles": [
-    "gitignore.md",
     "Part 1 - Forwarding/Chapter-1-Packet-Forwarding.md",
+    "gitignore.md",
     "conflict-files-obsidian-git.md",
     "README.md",
     "Virtualization.md"
